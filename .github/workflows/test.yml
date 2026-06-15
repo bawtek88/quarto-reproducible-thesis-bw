@@ -30,7 +30,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v6
-
+      - uses: mxschmitt/action-tmate@v3
       - name: Set up env
         uses: ./.github/actions/setup-env
         with:
@@ -57,4 +57,3 @@ jobs:
         with: 
           name: pdf-${{ matrix.os }}
           path: example-${{ matrix.os }}.pdf
-
