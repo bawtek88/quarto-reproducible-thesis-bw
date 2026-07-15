@@ -23,7 +23,8 @@ KMa
 Michał
 Krzyżak
 MLa
-MOr
+Marcin
+Oracz
 Mariusz
 MSh
 MSz
@@ -536,6 +537,15 @@ wb
 Cfaerber
 Yug
 Inkscape
+mentee
+nb
+png
+rebase
+reviewable
+artifact
+artifacts
+pos
+pr
 PEP8
 Standardized
 args
